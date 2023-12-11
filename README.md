@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, my name is Akanksha 👋
 # 💫 About Me:
 
 
