@@ -1,4 +1,5 @@
 ### Hey, my name is Akanksha 👋
+📫 How to reach me akanksha1042@gmail.com
 # 💫 About Me:
 
 
