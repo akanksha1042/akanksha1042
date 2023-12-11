@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white) - (https://www.linkedin.com/in/akankshashinde1042/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white/https://www.linkedin.com/in/akankshashinde1042/)
 ![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)
  ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 # 💻 Tech Stack:
